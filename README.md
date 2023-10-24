@@ -1,5 +1,5 @@
 # CS431 - Deep learning techniques & their applications
 
-## Instructor: PhD. Vinh Tiep Nguyen
+- Instructor: PhD. Vinh Tiep Nguyen
 
-## Semester: 1st semester of 2023-2024
+- Semester: 1st semester of 2023-2024
